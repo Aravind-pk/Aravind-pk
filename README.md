@@ -1,5 +1,5 @@
 # Hi, I'm Aravind  (ᵔᴥᵔ)
-#### webDev | electronicsStudent | citizenOfProcrastiNation 
+#### webDev | electronicsStudent 
 
 
 ```javascript
