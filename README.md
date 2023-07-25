@@ -1,12 +1,12 @@
 # Hi, I'm Aravind  (ᵔᴥᵔ)
-#### webDev | electronicsStudent 
+#### webDev | ASE @ sada.com 
 
 
 ```javascript
 const aravind = {
   codesIn: [JS, Python, Java, Verilog, Bash],
-  dailyDrivers: [VSCode, ModelSim, Spotify, Git],
-  askMeAbout: [Web Dev, Tech, Circuits, Animes],
+  dailyDrivers: [VSCode, Spotify, Git, Evernote],
+  askMeAbout: [Web Dev, Cloud, Tech, Animes],
   
 }
 ```
